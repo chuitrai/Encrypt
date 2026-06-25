@@ -1,1 +1,4 @@
 *.pdf
+*.npy
+*.h5
+.codeboarding/
